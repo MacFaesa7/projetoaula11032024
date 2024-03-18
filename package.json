@@ -1,5 +1,19 @@
 {
-  "dependencies": {
-    "node-telegram-bot-api": "^0.65.1"
-  }
+  "name": "nome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MacFaesa7/projetoAula11032024-main--1-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MacFaesa7/projetoAula11032024-main--1-/issues"
+  },
+  "homepage": "https://github.com/MacFaesa7/projetoAula11032024-main--1-#readme"
 }
